@@ -51,6 +51,8 @@ Engenheiro de Software formado pelo Centro Universitário Assis Gurgacz.
     </td>
   </tr>
 </table>  
-![Snake animation](https://github.com/MaikelBenini/MaikelBenini/blob/output/github-contribution-grid-snake.svg)
 <br/>  
+![Snake animation](https://github.com/MaikelBenini/MaikelBenini/blob/output/github-contribution-grid-snake.svg)
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=maikelbenini&&style=flat-square)  
+
