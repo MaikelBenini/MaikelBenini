@@ -35,6 +35,7 @@ Engenheiro de Software formado pelo Centro Universitário Assis Gurgacz.
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+ 
 </div>  
 
 <br/>  
@@ -50,7 +51,6 @@ Engenheiro de Software formado pelo Centro Universitário Assis Gurgacz.
     </td>
   </tr>
 </table>  
-
+![Snake animation](https://github.com/MaikelBenini/MaikelBenini/blob/output/github-contribution-grid-snake.svg)
 <br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=maikelbenini&&style=flat-square)  
