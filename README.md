@@ -2,7 +2,7 @@
 Engenheiro de Software formado pelo Centro Universitário Assis Gurgacz.  
  
 <a href="https://wa.me/5545991412941">
-  <img src=https://img.shields.io/badge/WhatsApp-%2B55%2045%209%209838%203470%20-brightgreen />
+  <img src=https://img.shields.io/badge/WhatsApp-%2B55%2045%209%209141%202941%20-brightgreen />
 </a>
 
 <br />
